@@ -306,3 +306,5 @@ Unlike a pre-formatted code block, a code span indicates code within a
 normal paragraph. For example:
 
 Use the `printf()` function.
+
+# Testing update sync with GitLab. An accordion component is a user interface element in extensive use on the UVM website. It can organize and manage a lot of content in a small amount of screen real estate and make it more consumable by displaying it as a  list of collapsible sections.
